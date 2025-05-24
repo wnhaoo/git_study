@@ -1,4 +1,0 @@
-1. main branch first init
-2. emergency fix commit
-3. Write at feature/#1 branch
-4. Write at main branch
